@@ -7,3 +7,5 @@ http://live.radio-impuls.ro
 http://live.radiotrinitas.ro:8000
 #EXTVLCOPT:network-caching=1000
 http://stream.radiozu.ro:8020/
+#EXTVLCOPT:network-caching=1000
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
