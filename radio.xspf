@@ -42,5 +42,25 @@
 			<location>http://89.43.138.116:8000/radiodoina.ogg</location>
 			<title>Radio Doina</title>
 		</track>
+		<track>
+			<location>http://edge76.rdsnet.ro:84/digifm/digifm.mp3</location>
+			<title>Radio DigiFM</title>
+		</track>
+		<track>
+			<location>http://astreaming.europafm.ro:8000/europafm_aacp48k</location>
+			<title>Radio EuropaFM</title>
+		</track>
+		<track>
+			<location>http://live.guerrillaradio.ro:8010/guerrilla.aac</location>
+			<title>Radio Guerrilla</title>
+		</track>
+		<track>
+			<location>http://80.86.106.143:9128/rockfm.mp3</location>
+			<title>Radio RockFM</title>
+		</track>
+		<track>
+			<location>http://84.247.83.36:8004/live.ogg</location>
+			<title>Sport Total FM</title>
+		</track>
 	</trackList>
 </playlist>
