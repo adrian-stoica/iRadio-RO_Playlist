@@ -32,7 +32,7 @@
 		</track>
 		<track>
 			<location>http://astreaming.vibefm.ro:8000/vibefm_aacp48k</location>
-			<title>Radio VibeFM</title>
+			<title>Radio Vibe FM</title>
 		</track>
 		<track>
 			<location>http://live.tananana.ro:8010/stream-48.aac</location>
@@ -44,11 +44,11 @@
 		</track>
 		<track>
 			<location>http://edge76.rdsnet.ro:84/digifm/digifm.mp3</location>
-			<title>Radio DigiFM</title>
+			<title>Radio Digi FM</title>
 		</track>
 		<track>
 			<location>http://astreaming.europafm.ro:8000/europafm_aacp48k</location>
-			<title>Radio EuropaFM</title>
+			<title>Radio Europa FM</title>
 		</track>
 		<track>
 			<location>http://live.guerrillaradio.ro:8010/guerrilla.aac</location>
@@ -56,7 +56,7 @@
 		</track>
 		<track>
 			<location>http://80.86.106.143:9128/rockfm.mp3</location>
-			<title>Radio RockFM</title>
+			<title>Radio Rock FM</title>
 		</track>
 		<track>
 			<location>http://84.247.83.36:8004/live.ogg</location>
