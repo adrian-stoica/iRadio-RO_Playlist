@@ -4,7 +4,7 @@
 	<trackList>
 		<track>
 			<location>http://edge126.rdsnet.ro:84/profm/dancefm.mp3</location>
-			<title>Radio DanceFM 89.5</title>
+			<title>Radio Dance FM 89.5</title>
 		</track>
 		<track>
 			<location>http://live.radio-impuls.ro</location>
@@ -16,7 +16,7 @@
 		</track>
 		<track>
 			<location>http://live.magicfm.ro:9128/magicfm.aacp</location>
-			<title>Radio MagicFM</title>
+			<title>Radio Magic FM</title>
 		</track>
 		<track>
 			<location>http://stream2.srr.ro:8000/stream.mp3</location>
